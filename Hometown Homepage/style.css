@@ -207,7 +207,8 @@ footer ul li a {
   color: #0b0707;
   margin: 0 10px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 30px;
+  margin-top: 15px;
 }
 
 .Social-icons a:hover {
